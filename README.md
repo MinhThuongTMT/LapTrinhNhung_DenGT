@@ -1,4 +1,4 @@
-# 🛑 HỆ THỐNG ĐÈN GIAO THÔNG SỬ DỤNG NUCLEO-F429ZI 🚦  
+# 🛑 HỆ THỐNG ĐÈN GIAO THÔNG🚦  
 
 ## 📌 Giới thiệu  
 Hệ thống đèn giao thông này được xây dựng trên nền tảng **NUCLEO-F429ZI**, cho phép hoạt động linh hoạt giữa:  
@@ -9,7 +9,7 @@ Hệ thống đèn giao thông này được xây dựng trên nền tảng **NU
 Hệ thống giúp mô phỏng đèn giao thông thực tế, đồng thời cho phép người dùng điều chỉnh thời gian đèn dễ dàng.  
 
 🎥 **Video mô phỏng hệ thống**:  
-[![Video Hệ Thống Đèn Giao Thông](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+[![Video Hệ Thống Đèn Giao Thông](https://img.youtube.com/vi/BslwdNOOrMY/maxresdefault.jpg)](https://www.youtube.com/watch?v=BslwdNOOrMY)    
 *(Nhấn vào ảnh để xem video!)*  
 
 ---
