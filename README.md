@@ -4,6 +4,7 @@
 Hệ thống đèn giao thông này được xây dựng trên nền tảng NUCLEO-F429ZI với khả năng hoạt động linh hoạt giữa chế độ tự động, chế độ thủ công, và chế độ cài đặt thời gian. Hệ thống giúp mô phỏng hoạt động của đèn giao thông thực tế, đồng thời cho phép người dùng điều chỉnh thời gian đèn một cách dễ dàng.
 
 🔧 Quy trình hoạt động
+
 ✅ Chế độ tự động (Mặc định)
 Đèn Xanh sáng trong 2s
 Đèn Đỏ sáng trong 1s
@@ -34,6 +35,7 @@ Bàn phím số (Keypad 4x4) để nhập lệnh
 Nguồn cấp 5V/3.3V
 
 📌 Ứng dụng
+
 ✅ Mô phỏng hệ thống đèn giao thông thực tế.
 ✅ Dùng trong giảng dạy về hệ thống nhúng và vi điều khiển.
 ✅ Có thể mở rộng để điều khiển đèn giao thông thực tế.
